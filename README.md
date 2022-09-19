@@ -1,4 +1,4 @@
-# Kernel Hacking Assignment
+# Assignment 1
 
 ### - Hayden Coffey
 
