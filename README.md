@@ -8,6 +8,10 @@ I made my modifications ontop of the Linux 5.19 kernel.
 I've included a submodule in this repo pointing to the
 modified kernel.
 
+Here is also a link to the commit with all of the changes I made to the kernel:
+
+https://github.com/hcoffey1/linux/commit/97ebe0ea2b6af2059d8674e29dee06e47799ccec
+
 As far as I can tell, with the 5.19 version of Linux,
 the process for adding a systemcall to UML is the same
 as X86. Modifying `syscall_64.tbl` in `arch/x86` appears to generate
